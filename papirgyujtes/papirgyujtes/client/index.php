@@ -27,7 +27,7 @@
             <a class="nav-link" href="index.php?prog=statisztika.php">Statisztika</a>
           </li>
           <li class="nav-item p-1 m-2">
-            <a class="nav-link" href="index.php">menu3...</a>
+            <a class="nav-link" href="index.php?prog=leadas.php">Leadás</a>
           </li>
           <li class="nav-item p-1 m-2">
             <a class="nav-link" href="index.php">menu4...</a>
